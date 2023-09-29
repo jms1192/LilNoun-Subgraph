@@ -1,8 +1,8 @@
 # LilNoun-Subgraph
-This subgraph offers an in-depth analysis, capturing both token transactions and governance delegation events within the Lil Nouns DAO. By visualizing these key activities, stakeholders can gain valuable insights into the organization's operational dynamics and governance structures.
 
-#Overview
-This subgraph is engineered for the lilnoun blockchain. It indexes and queries data using The Graph Protocol, focusing on various events emitted by the blockchain. This documentation aims to provide an in-depth view into each event handler, its purpose, and the parameters it records.
+The lilnoun subgraph serves as a comprehensive analytical tool that utilizes The Graph Protocol to index and query crucial data from the lilnoun DAO. It captures a wide range of events, including token transactions and governance delegation activities within the Lil Nouns DAO, offering stakeholders an invaluable lens through which to understand the organization's operational dynamics and governance structures. 
+
+This documentation outlines each event handler in detail, specifying the parameters it records, to provide a thorough understanding of the subgraph's capabilities and purpose. By seamlessly integrating these functionalities, the subgraph not only offers detailed visibility into individual transactions but also broadens the scope for data-driven decision-making within the DAO.
 
 # lilnoun Subgraph Handlers
 
